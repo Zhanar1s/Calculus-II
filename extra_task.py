@@ -1,3 +1,9 @@
+#Akmurzayev Zhanarys
+#Calculus 2
+#Библиотеки который нужно установить:
+# "pip install numpy matplotlib sympy" нужно ввести в командную строку
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import sympy as sp
